@@ -25,8 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drpdishant&show_icons=true&locale=en&layout=compact" alt="drpdishant" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drpdishant&show_icons=true&locale=en" alt="drpdishant" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drpdishant&show_icons=true&locale=en&layout=compact" alt="drpdishant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drpdishant&" alt="drpdishant" /></p>
+
