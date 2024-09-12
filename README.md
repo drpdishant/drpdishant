@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **drpdishant@proton.me**
 
-- 📄 Know about my experiences [https://dishant.me/resume.pdf](https://dishant.me/resume.pdf)
+- 📄 Know about my experiences. [https://dishant.me/CV%20English.pdf](https://dishant.me/CV%20English.pdf).
 
 - ⚡ Fun fact **I love to sing and play guitar when I am not being a geek, also I sometimes get back to composing music with FL Studio.**
 
