@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **OpenTelemetry, Kubernetes, Vault, Reverse Proxy Over VPN, WireGuard, Backstage**
 
-- 👯 I’m looking to collaborate on [aws-oidc](https://awsbroker.kubic.run/)
+- 👯 I’m looking to collaborate on [aws-oidc](https://github.com/Rishang/aws-oidc-broker)
 
 - 👨‍💻 All of my projects are available at [https://github.com/drpdishant](https://github.com/drpdishant)
 
