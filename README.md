@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [k8s-labs](https://codeberg.org/drpdishant/k8s-lab)
 
-- 🌱 I’m currently learning **OpenTelemetry, Kubernetes, Vault, Reverse Proxy Over VPN, WireGuard, Backstage**
+- 🌱 I’m currently learning **OpenTelemetry, Kubernetes, Vault, OpenVPN, WireGuard, Backstage**
 
 - 👯 I’m looking to collaborate on [aws-oidc](https://github.com/Rishang/aws-oidc-broker)
 
